@@ -1,4 +1,4 @@
-[⬅ Back](readme.md)
+[⬅ Back](./readme.md)
 
 # About me
 
