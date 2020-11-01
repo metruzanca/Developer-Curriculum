@@ -14,12 +14,7 @@ My goal as a teacher is not teach "coding in java/python/javascript", my goal is
 - I'll teach you to solve the problem first, then write the code.
 - I'll teach you to (*loosely*) follow [The Unix Philosophy](philosophy/unix_philosophy.md) to make the development process easier.
 - I'll teach you to be mindful of the industry standards, convetions and best practices.
-- Keep it simple stupid. Aka don't overrengineer your code. I fall victim to over-engineering quite often.<details>
-  <summary>A good example of over-engineering</summary>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-AQfQFcXac8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-  if you're on the markdown version of this page, [click here](https://www.youtube.com/watch?v=-AQfQFcXac8)
-</details>
+- Keep it simple stupid. Aka don't overrengineer your code. I fall victim to over-engineering quite often. [[example](https://www.youtube.com/watch?v=-AQfQFcXac8)]
 
 # My Students
 (going by their github username for privacy reasons)
