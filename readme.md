@@ -1,6 +1,8 @@
 # Samuel's Teaching Curriculum
 
-In this Living Document you'll find my personal notes I use for teaching Software development
+In this Living Document you'll find my personal notes I use for teaching Software development.
+
+The material Starts [here](course/readme.md).
 
 Breifly, who am I? I'm a full stack software engineer and I'm always striving to be the best version of myself. I think paying the knowledge and teachings forward is something we should all do. Not just becuase we can help others learn but also as a self-improvement tool via the protégé effect. You can read more about me. [here](about.md)
 
