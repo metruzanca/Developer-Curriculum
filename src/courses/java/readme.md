@@ -1,4 +1,4 @@
-[⬅ Back](../readme.md) | [Home](../../readme.md)
+[Home](../../../readme.md)
 
 # Introduction to java
 
